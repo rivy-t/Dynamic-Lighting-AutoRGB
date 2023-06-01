@@ -70,7 +70,7 @@ the color on all connected devices whenever the event is raised.
 ### Additional Notes
 This sample was created in collaboration with the Xbox team. 
 
-### Resources and Links
+========================================================================
 Learn more about Windows App SDK here:
 https://docs.microsoft.com/windows/apps/windows-app-sdk/
 Learn more about WinUI3 here:
@@ -83,3 +83,4 @@ Learn more about Windows.Graphics.Capture here:
 https://learn.microsoft.com/en-us/windows/uwp/audio-video-camera/screen-capture
 Learn more about compute shaders here: 
 https://learn.microsoft.com/en-us/windows/win32/direct3d11/direct3d-11-advanced-stages-compute-shader
+========================================================================
